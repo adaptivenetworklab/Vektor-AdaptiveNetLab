@@ -1,4 +1,4 @@
-# <p align="center"> Vektor-Adaptive </p>
+# <p align="center"> Vektor Adaptive </p>
 #### <p align="center"> Vector Adaptive was pioneered by Achmad Valupi and will always continue to develop by all other Media Creative Division</p>
 
  
